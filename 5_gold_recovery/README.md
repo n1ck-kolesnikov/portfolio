@@ -18,7 +18,7 @@
 
 и рассчитать для них значения sMAPE, а также итогового sMAPE, равного 
 
-$ final smape = 25\% * smape(rougher.output.recovery) + 75\% * smape(final.output.recovery) $
+final smape = 25\% * smape(rougher.output.recovery) + 75\% * smape(final.output.recovery)
 
    
 # Системные требования 
