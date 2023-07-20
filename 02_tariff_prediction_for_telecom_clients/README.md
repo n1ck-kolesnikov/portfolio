@@ -14,16 +14,16 @@
 Построим модель с максимально большим значением accuracy.
 
    
-## Системные требования 
+## Инструменты
 
-python==3.9.12
-pandas==1.4.2
-matplotlib==3.5.1
-seaborn==0.11.2
-numpy==1.21.5
-scikit-learn==1.2.1
-catboost==0.26.1
-tqdm==4.64.0
+- python
+- pandas
+- matplotlib.pyplot
+- seaborn
+- numpy
+- scikit-learn
+- catboost
+- tqdm
 
 ## Вывод 
 
